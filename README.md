@@ -5,6 +5,9 @@ Twice a week, for math major students, in English.
 ## Subjects
 
 * Seiberg-Witten theory and symplectic geometry
+* Chern-Simons theory
+* Quantum field theory
+* Relativistic quantum mechanics
 * Quantum field theory in curved spacetime
 * Quantum gravity
 * Swampland
