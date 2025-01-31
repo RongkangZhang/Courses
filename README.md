@@ -8,6 +8,7 @@ Twice a week, for math major students, in English.
 * Quantum field theory in curved spacetime
 * Quantum gravity
 * Swampland
+* Entanglement entropy
 * Algebraic geometry and physics
 * Classical mechanics and geometric phase
 * Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics (1st-3rd week)
