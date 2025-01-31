@@ -4,11 +4,16 @@ Twice a week, for math major students, in English.
 
 ## Subjects
 
+* Seiberg-Witten theory and symplectic geometry
+* Quantum field theory in curved spacetime
+* Quantum gravity
+* Swampland
+* Algebraic geometry and physics
 * Classical mechanics and geometric phase
 * Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics (1st-3rd week)
 * Topological order, tensor category and gauge theory
 * Gauge theory and physics
-* General relativity and geometry
+* General relativity, black hole and geometry
 * Low dimensional topology
 
 ## Schedule
