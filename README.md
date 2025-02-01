@@ -1,9 +1,18 @@
 # Courses
 
-Twice a week, for math major students, in English.
+Twice a week or so, for math major students, in English.
 
 ## Subjects
 
+* Gauge/gravity duality
+* Classical mechanics
+* Statistical physics
+* Quantum mechanics
+* gravity theory
+* Conformal algebra
+* Holography
+* Condensed matter field theory
+* Condensed matter field theory
 * Symmetry
 * Particle physics
 * Lie group and Lie algebra
@@ -21,12 +30,23 @@ Twice a week, for math major students, in English.
 * Quantum field theory in curved spacetime
 * Quantum gravity
 * Swampland
+* Chern theory and topological insulator
+* Path integral
+* Perturbation theory
+* Bose-Einstein condensation
+* Superconductivity
+* Quantum field in curved spacetime
+* Quantum information and quantum computing
+* Linear algebra
+* Complexity theory
 * Entanglement entropy
 * Algebraic geometry and physics
 * Classical mechanics and geometric phase
 * Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics (1st-3rd week)
 * Topological order, tensor category and gauge theory
 * Gauge theory and physics
+* Quantum error correction
+* Quantum cryptography
 * General relativity, special relativity, gravitational wave, cosmology, black hole and geometry
 * Low dimensional topology
 
@@ -36,4 +56,5 @@ Twice a week, for math major students, in English.
 
 #### 20250204 (Tue.)\_14:00-16:00
 
-Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics\_1st
+Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics\_1st (Rong-Kang Zhang)
+Riemannian geometry and complex geometry\_2nd (L.Y. Yu)
