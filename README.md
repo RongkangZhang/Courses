@@ -15,6 +15,10 @@ Twice a week or so, for math major students, in English.
 * Symmetry
 * Particle physics
 * Lie group and Lie algebra
+* Low-dimensional algebra
+* Representation theory
+* Kac-Moody and Virasoro algebra
+* Infinite dimensional Lie algebra
 * Quantum electrodynamics
 * Yang-Mills theory
 * Quantum chromodynamics
