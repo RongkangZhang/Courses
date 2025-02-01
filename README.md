@@ -12,7 +12,6 @@ Twice a week or so, for math major students, in English.
 * Conformal algebra
 * Holography
 * Condensed matter field theory
-* Condensed matter field theory
 * Symmetry
 * Particle physics
 * Lie group and Lie algebra
