@@ -154,3 +154,21 @@ theory
 Vertex operator algebra
 Clifford algebra
 
+群公告
+20250204_14:00-16:00
+​Dijkgraaf-Witten theory and its lattice Hamiltonian model--the twisted quantum double model of topological orders, the gauge structure, i.e., gauge group and gauge transformation
+​
+​20250207_14:00-16:00
+​Turaev-Viro topological field theory and its lattice Hamiltonian model--the string-net model
+​
+​20250210_14:00-16:00
+​Categorical symmetry in topological field theory
+​
+​20250213_14:00-16:00
+​Introduction to noninvertible symmetry
+​
+​20250216_14:00-16:00
+​Noninvertible symmetry in (1+1)d
+​
+​20250219_14:00-16:00
+​Noninvertible symmetry in (1+2)d, quantum field theory and M theory
