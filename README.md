@@ -5,6 +5,7 @@ Twice a week or so, for math major students, in English.
 ## Subjects
 
 * Symmetry, group theory and category theory
+* Topological gauge field theory
 * Gauge/gravity duality
 * Classical mechanics
 * Statistical physics
