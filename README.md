@@ -64,3 +64,93 @@ Twice a week or so, for math major students, in English.
 
 Mathematical, geometrical, topological and gauge electromagnetism and electrodynamics\_1st (Rong-Kang Zhang)
 Riemannian geometry and complex geometry\_2nd (L.Y. Yu)
+
+Schedule:
+Time:
+Every Wednesday night (21:00-23:00) and Saturday night (21:00-23:00) from January 25, 2025, for a duration of 1-3 years.
+Purpose:
+To systematically learn physics for students with a math background.
+Subjects needed
+Physics:
+Electromagnetism and electrodynamics
+Classical mechanics and theoretical mechanics
+Statistical physics and thermodynamics
+Mathematical methods in physics
+General relativity
+Atomic physics and quantum mechanics
+Solid state physics
+Particle physics
+Quantum information and quantum computing
+Quantum error 
+correction
+Cosmology
+Black hole thermodynamics
+Many-body physics
+Quantum many-body physics
+Quantum statistical physics
+Quantum optics
+Quantum field theory
+Gauge field theory
+Conformal field theory
+Supersymmetric mechanics
+Supersymmetric quantum mechanics
+Renormalization group
+Holography
+Integrable systems
+Quantum electrodynamics
+Quantum chromodynamics
+Non-equilibrium physics
+Strongly-correlated 
+systems
+Condensed matter field 
+theory
+Topological field theory
+Path 
+integral
+
+Symmetry
+Generalized global symmetry
+Topological 
+order
+Categorical symmetry
+Non-invertible 
+symmetry
+String theory
+Gravity theory
+Quantum gravity
+M theory
+Math:
+Mathematical analysis
+Linear algebra
+Abstract algebra
+Basic topology
+Riemannian geometry
+Real analysis
+Complex analysis
+Functional analysis
+Algebraic topology
+Group theory
+Ordinary differential equations
+Gauge theory
+Lie group and Lie algebra
+Category theory
+Tensor category
+Harmonic functions
+Symplectic 
+geometry
+Complex geometry
+Algebraic geometry
+Mirror 
+symmetry
+Quantum 
+algebra
+Mathematical 
+physics
+Frobenious 
+algebra
+Hopf algebra
+Representation 
+theory
+Vertex operator algebra
+Clifford algebra
+
