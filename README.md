@@ -1,8 +1,8 @@
-# Courses
+# Arranged
 
-Twice a week or so, for math major students, in English.
+* Abstract algebra
 
-## Subjects
+# To be arranged
 
 * Symmetry, group theory and category theory
 * Topological gauge theory and group cohomology
